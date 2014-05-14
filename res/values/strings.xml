@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PriyankaAssignment</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="scan_card">Scan Card</string>
+    <string name="scan_process">onScanPress</string>
+    <string name="token_card_io">4d2847d79d634301964482a736078b99</string>
+
+</resources>
